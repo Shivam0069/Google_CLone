@@ -16,7 +16,7 @@ export default function SearchHeader() {
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/640px-Google_2015_logo.svg.png"
           />
         </Link>
-        <div className="flex-1">
+        <div className="flex-1 ">
           <SearchBox />
         </div>
         <div className="hidden md:inline-flex space-x-2 ">
